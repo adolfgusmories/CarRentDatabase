@@ -2,7 +2,7 @@
 Capstone Project for Fundamental Data Science with Python
 Car Rent Database System
   Mini database system for Car Rent, with this python file we can accesing this database. There are 4 main menu:
-    1. Showing Car Data     : Access this menu to showing all car database 
+    1. Showing Car Data     : Access this menu to showing all car database <br>
     2. Adding New Car Data  : Access this menu to adding new car data to database
     3. Edit Car Data        : Access this menu to edit car data in database
     4. Delete Car Data      : Access this menu to delete on specific car data from database
