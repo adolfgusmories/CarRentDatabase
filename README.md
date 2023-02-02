@@ -1,6 +1,5 @@
-# MODULE-1
+# Car Rent Database System Application with Python
 Capstone Project for Fundamental Data Science with Python.
-Car Rent Database System.
   Mini database system for Car Rent, with this python file we can accesing this database.
   There are 5 main menus, showing database, adding database, edit database, delete database, and account setting
   Also each main menu have they sub menu to accessing certain purpose.
